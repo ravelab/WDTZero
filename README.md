@@ -1,4 +1,4 @@
-# WDTZero V1.3.0
+# WDTZero V1.3.1 
 Allows to use the WatchDog functionality for Arduino Zero, MKRZero and MKR1000 only
 
 
